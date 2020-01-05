@@ -1,2 +1,1 @@
-# demopython
-next prime number
+
